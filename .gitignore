@@ -1,0 +1,9 @@
+.venv
+.idea
+tests
+*__pycache__
+terraform/.terraform
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/*.zip
+terraform/.terraform.lock.hcl
